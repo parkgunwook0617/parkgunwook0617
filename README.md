@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=test)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=test)
 
 <!--
 **parkgunwook0617/parkgunwook0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
