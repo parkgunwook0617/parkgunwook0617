@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=안녕하세요-nl-웹%20개발자-nl-박건욱입니다.&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=안녕하세요-nl-웹%20개발자-nl-박건욱입니다.&fontAlignY=30&descAlignY=40)
 
 ## History
 #### SKKUDING ( 2024.08 -)
