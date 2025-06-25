@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=안녕하세요-nl-웹%20개발자-nl-박건욱입니다.&FontAlign=0)
 <div class="header-container">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=안녕하세요-nl-웹%20개발자-nl-박건욱입니다.&FontAlign=0" alt="헤더 배경">
   <div class="header-text">
     <h1>안녕하세요 웹 개발자 박건욱입니다.</h1>
     </div>
