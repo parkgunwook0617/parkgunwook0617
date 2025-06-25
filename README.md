@@ -9,6 +9,7 @@
 
 ## Tech Stack
 ### Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 ### Framework
 <!--
 **parkgunwook0617/parkgunwook0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
