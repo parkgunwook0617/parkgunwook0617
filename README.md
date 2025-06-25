@@ -3,12 +3,15 @@
 </div>
 
 <div>
-  ## History
-  #### SKKUDING ( 2024.08 -)
-  #### Pirogramming ( 2024.12 - 2024.02 )
-  #### Spoeum ( 2025.05 - 2025.12 )
-  <br/>
-  <br/>
+    ## History
+    #### SKKUDING ( 2024.08 -)
+    #### Pirogramming ( 2024.12 - 2024.02 )
+    #### Spoeum ( 2025.05 - 2025.12 )
+    <br/>
+    <br/>
+</div>
+
+<div>
   
   ## Tech Stack
   ### Language
