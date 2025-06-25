@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요%20웹%20개발자-nl-박건욱입니다.)
 
-## About Me
+## History
+
 
 <!--
 **parkgunwook0617/parkgunwook0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
