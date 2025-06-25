@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요%20웹%20개발자-nl-박건욱입니다.)
+<div>
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요%20웹%20개발자-nl-박건욱입니다.)
+</div>
 
 <div>
   ## History
