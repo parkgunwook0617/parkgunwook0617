@@ -3,7 +3,7 @@
 ## History
 #### SKKUDING ( 2024.08 -) BE
 #### Pirogramming ( 2024.12 - 2025.02 ) FE, BE
-#### Spoeum ( 2025.05 - 2025.12 ) FE, BE
+#### Spoeum ( 2025.04 - 2025.12 ) FE, BE
 <br/>
 <br/>
 
