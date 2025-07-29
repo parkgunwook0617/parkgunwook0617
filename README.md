@@ -42,7 +42,7 @@
   #### CI/CD
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-  ### Development Environment
+  #### Development Environment
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>
 
