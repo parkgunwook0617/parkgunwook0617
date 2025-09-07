@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=안녕하세요-nl-웹%20개발자-nl-박건욱입니다.&fontAlignY=30&descAlignY=40)
 
 ## History
-#### SKKUDING ( 2024.08 -) BE
+#### SKKUDING ( 2024.08 - 2025.08 ) BE
 #### Pirogramming ( 2024.12 - 2025.02 ) FE, BE
 #### Spoeum ( 2025.04 - 2025.12 ) FE, BE
 <br/>
