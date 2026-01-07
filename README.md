@@ -53,9 +53,6 @@
 <br/>
 <br/>
 
-
-## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkgunwook0617)
 <!--
 **parkgunwook0617/parkgunwook0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
