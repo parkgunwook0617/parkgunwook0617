@@ -28,6 +28,7 @@
 
   ### Database
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/h2database-09476B?style=flat-square&logo=h2database&logoColor=white"/>
 
   ### Tool
   #### API Testing
